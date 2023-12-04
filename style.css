@@ -83,7 +83,7 @@ body,*,*:before,*:after {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 1em;
     font-weight: bold;
-    margin-bottom: 0;
+    margin-bottom: 0%;
 
 }
 p {
@@ -100,7 +100,7 @@ p {
 
 .project {
     color: blue;
-    margin-bottom: 0;
+    margin-bottom: 0%;
 }
 
 .description {
