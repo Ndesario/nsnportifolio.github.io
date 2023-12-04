@@ -97,6 +97,7 @@ p {
 
 .project {
     color: blue;
+    margin-bottom: 0;
 }
 
 .description {
@@ -114,6 +115,6 @@ p {
     color: black;
     font-style: italic;
     width: 100%;
-    margin-left: 15.2%; 
+    margin-left: 15.2%;
 }
 
