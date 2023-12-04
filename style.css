@@ -82,7 +82,7 @@ body,*,*:before,*:after {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 1em;
     font-weight: bold;
-    margin:auto;
+    margin-bottom: 0;
 
 }
 p {
