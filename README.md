@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-with, initial-scale=1.0">
         <title>Portifolio project</title>
         <link rel="stylesheet" href="http://meyerweb.com/eric/tools/css/reset/reset.css">
-        <link rel="stylesheet" href="http://fontawesome.com">
+        <link rel="stylesheet" href="fontawesome.com">
     </head>
 
     <body>
